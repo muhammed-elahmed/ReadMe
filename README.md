@@ -1,4 +1,5 @@
 LİNUX ÖDEVİ
+
 1.Ubuntu indirme  ![1730042997510](https://github.com/user-attachments/assets/86ef5ae0-c4f0-412c-9bdb-ec4cb5bf89dc)
 2.Yeni birim açma ve küçültleme ![1730042997578](https://github.com/user-attachments/assets/8a8b3f36-209e-4730-a3b7-576ac517c1ec)
 3.Dosyaların sistemini değişme ![1730042997557](https://github.com/user-attachments/assets/9a0640b0-d7cd-49d8-9e2c-be91c8f7fcda)
